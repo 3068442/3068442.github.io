@@ -1,0 +1,276 @@
+Uri: https://dobrokna.xyz/
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\index.htm
+Content Type: text/html
+
+Uri: https://dobrokna.xyz/img/favicon/favicon.ico
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://dobrokna.xyz/img/favicon/favicon.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\favicon\favicon.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/css/main.css
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\css\main.css
+Content Type: text/css
+
+Uri: https://dobrokna.xyz/img/logo.svg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dobrokna.xyz/img/svg/gift.svg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\svg\gift.svg
+Content Type: image/svg+xml
+
+Uri: https://dobrokna.xyz/img/window.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\window.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/advantage-img_1.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage-img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage-img_2.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage-img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/gift-slide-img_1.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\gift-slide-img_1.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/gift-slide-img_2.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\gift-slide-img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/svg/check.svg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\svg\check.svg
+Content Type: image/svg+xml
+
+Uri: https://dobrokna.xyz/img/windows/1.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\windows\1.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/windows/2.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\windows\2.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/windows/3.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\windows\3.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/windows/4.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\windows\4.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/profiles/1.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\profiles\1.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/profiles/2.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\profiles\2.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/profiles/3.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\profiles\3.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/profiles/4.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\profiles\4.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/advantage/1.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage/2.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage/3.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\3.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage/4.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\4.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage/5.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\5.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/advantage/6.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\advantage\6.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/colors/1.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\1.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/1.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\1.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/2.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\2.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/3.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\3.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/4.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\4.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/5.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\5.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/colors/thumb/6.png
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\colors\thumb\6.png
+Content Type: image/png
+
+Uri: https://dobrokna.xyz/img/services/1.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\services\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/services/2.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\services\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/services/3.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\services\3.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/services/4.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\services\4.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/services/5.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\services\5.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/sertificates/thumb/1-min.jpeg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\sertificates\thumb\1-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/sertificates/thumb/2-min.jpeg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\sertificates\thumb\2-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/sertificates/thumb/3-min.jpeg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\sertificates\thumb\3-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/sertificates/thumb/4-min.jpeg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\sertificates\thumb\4-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/js/libs.min.js
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://dobrokna.xyz/js/common.js
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\js\common.js
+Content Type: application/javascript
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaSemibold.eot
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaSemibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaSemibold.eot?
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaSemibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaSemibold.woff
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaSemibold.woff
+Content Type: font/woff
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaSemibold.ttf
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaSemibold.bin
+Content Type: application/octet-stream
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBold.eot
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBold.eot?
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBold.woff
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBold.woff
+Content Type: font/woff
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBold.ttf
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBold.bin
+Content Type: application/octet-stream
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaExtrabld.eot
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaExtrabld.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaExtrabld.eot?
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaExtrabld-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaExtrabld.woff
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaExtrabld.woff
+Content Type: font/woff
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaExtrabld.ttf
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaExtrabld.bin
+Content Type: application/octet-stream
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBlack.eot
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBlack.eot?
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBlack-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBlack.woff
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBlack.woff
+Content Type: font/woff
+
+Uri: https://dobrokna.xyz/fonts/ProximaNovaBlack.ttf
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\fonts\ProximaNovaBlack.bin
+Content Type: application/octet-stream
+
+Uri: https://dobrokna.xyz/img/zoom-in.svg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://dobrokna.xyz/img/arrow.svg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://dobrokna.xyz/img/header_bg.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\header_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/gift-slide-bg_1.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\gift-slide-bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/gift-slide-bg_2.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\gift-slide-bg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/profiles_bg.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\profiles_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/color_bg.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\color_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/sertificates_bg.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\sertificates_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dobrokna.xyz/img/form_bg.jpg
+File Name: c:\Downloaded Web Sites\dobrokna.xyz\img\form_bg.jpg
+Content Type: image/jpeg
+
